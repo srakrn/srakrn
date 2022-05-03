@@ -1,6 +1,6 @@
 # Sirakorn Lamyai
 
-__Data Engineer, Adastra Thailand__
+__AWS Data Engineering Competency Lead, [Adastra Thailand](https://www.adastra.co.th/)__
 
 Sirakorn Lamyai (Tan - they/them) is a Data Engineer at Adastra (Thailand). Their distinction includes data platform implementations, data warehousing, ETL solutions, business intelligence (BI), data science, machine learning, and other related topics.
 
