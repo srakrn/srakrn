@@ -2,10 +2,8 @@
 
 __Data Engineer, Adastra Thailand__
 
-Sirakorn Lamyai (they/them or xe/xem, "เธอ" in Thai) is a Data Engineer at Adastra (Thailand) Company Limited. Their distinction includes but not limited to Data Science and Data Engineering
+Sirakorn Lamyai (Tan - they/them) is a Data Engineer at Adastra (Thailand). Their distinction includes data platform implementations, data warehousing, ETL solutions, business intelligence (BI), data science, machine learning, and other related topics.
 
-Sirakorn graduated from the Department of Computer of Engineering, Kasetsart University, pursuing the bachelor’s degree of Computer Engineering with Second Degree honour. During their residency at the Theory Research Group, their interests include adversarial training, robust learning, and machine learning explainability. Their dissertation is “Clustering Method to Fasten Adversarial Training Process”.
+Sirakorn obtained their Bachelor's degree in Computer Engineering with second honours from the Department of Computer Engineering, Kasetsart University (Bangkhen Campus). They formerly resided in the Theory Research Group, working on the academic scope of Deep Learning problems. Their dissertation topic is "Clustering Method to Strengthen Adversarial Attacks in Deep Learning Models"
 
-Sirakorn was an intern at BRAIN Laboratory at Vidyasirimedhi Institute of Science and Technology (VISTEC), where they co-authored two research papers mainly on Brain-Controlled Interfaces. 
-
-
+Sirakorn's experiences cover the business, academic, and research fields. Their former distinction includes Brain-Controlled Interfaces (BCI) and experiments on humans; deep learning; intensive data science training instructor and teaching assistant; and more.
